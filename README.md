@@ -113,9 +113,9 @@ to close a critical gap in Web3 transaction visibility.
 
 ## Documentation
 
-- 📘 Architecture & system overview: `docs/architecture/`
-- 🔌 API reference & examples: `docs/api/`
-- 📜 Policies (Terms & Privacy): `docs/policies/`
+- 📘 **Architecture & system overview** — [docs/architecture](docs/architecture/)
+- 🔌 **API reference & examples** — [docs/api](docs/api/)
+- 📜 **Policies (Terms & Privacy)** — [docs/policies](docs/policies/)
 
 ---
 
