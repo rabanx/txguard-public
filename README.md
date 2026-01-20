@@ -120,6 +120,10 @@ to close a critical gap in Web3 transaction visibility.
 
 ---
 
+## Important Notes
+
+- ⚠️ **Limitations & scope** — [docs/limitations.md](docs/limitations.md)
+
 ## Contact
 
 - 🔐 Security issues: **security@txguard.io**
