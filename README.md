@@ -93,10 +93,10 @@ Built with a **security-first mindset**:
 
 ## Status
 
-🚧 **Beta** — actively developed and evolving.
+🚀 Actively developed and continuously evolving.
 
-TXGuard is an independent project built without corporate sponsorships or a large development team,  
-created by a security researcher who identified a critical gap and decided to fix it.
+TXGuard is an independent security-focused project built by a security researcher
+to close a critical gap in Web3 transaction visibility.
 
 ---
 
