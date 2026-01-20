@@ -34,7 +34,6 @@ TXGuard analyzes blockchain transactions **before they are signed**, providing c
 TXGuard provides **analysis only**.  
 It does **not** execute transactions, custody assets, manage wallets, or provide financial services.
 
-diagram.png
 ---
 
 ## Origin Story
