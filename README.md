@@ -9,6 +9,17 @@
 
 ---
 
+## How it works
+
+![TXGuard End-to-End Flow](diagrams/diagram.png)
+
+TXGuard analyzes blockchain transactions before they are signed by combining transaction decoding,
+threat intelligence, and risk analysis.
+
+TXGuard performs transaction analysis only and does not execute, broadcast, or sign transactions.
+
+---
+
 ## The Problem
 
 Users in Web3 are expected to:
@@ -35,16 +46,6 @@ TXGuard provides **analysis only**.
 It does **not** execute transactions, custody assets, manage wallets, or provide financial services.
 
 ---
-
-## How it works
-
-![TXGuard End-to-End Flow](diagrams/diagram.png)
-
-TXGuard analyzes blockchain transactions before they are signed by combining transaction decoding,
-threat intelligence, and risk analysis.
-
-TXGuard performs transaction analysis only and does not execute, broadcast, or sign transactions.
-
 
 ## Origin Story
 
